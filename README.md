@@ -2,5 +2,5 @@
 
 
 
-go to resolse 
-go to assat
+go to Releases 
+go to Assets
